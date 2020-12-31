@@ -1,8 +1,8 @@
 # Running the js
 
 `node src/addressBook.js`  
-  
-Runs a script that loads another module in the (commonjs style)[https://flaviocopes.com/commonjs/]
+  0
+Runs a script that loads another module in the [commonjs style](https://flaviocopes.com/commonjs/)
 
 # Running the ts
 
